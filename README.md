@@ -29,4 +29,4 @@ Currently learning Figma and UI/UX fundamentals.
 ## Virtual Pet Game (In Progress)
 **Tech:** HTML, CSS, JavaScript  
 **Focus:** user states (happy, hungry, sleepy), simple UX thinking  
-**Status:** Ongoing learning project
+**Status:** Ongoing learning Project
